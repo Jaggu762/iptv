@@ -21,14 +21,13 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/manife
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Tata%20Play%20Fitness.webp" group-title="Lifestyle", Tata Play Fitness
 https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_209/output/manifest.mpd
 
-#EXTINF:-tvg-id="000" group-title="Official TG" tvg-logo="https://cdn.discordapp.com/icons/1181968455570825318/a_e6166027d9535048f0977aaa27debebf.gif?size=1024" ,Made by SyncGang
-https://discord.gg/zKD72drgZV
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=08e8faf8154953029ddb1b38766c2693:895150e61e439f695f8c6ad3d733153c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SET.webp" group-title="Entertainment", SET
 https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd
 
+#EXTINF:-tvg-id="000" group-title="Official TG" tvg-logo="https://cdn.discordapp.com/icons/1181968455570825318/a_e6166027d9535048f0977aaa27debebf.gif?size=1024" ,Made by SyncGang
+https://discord.gg/zKD72drgZV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cbe293fdc385dac8c0d502b04f338e4:de5d5094d2edea8272d9c8bf267057cd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/STAR%20Plus%20HD.webp" group-title="Entertainment", STAR Plus HD
