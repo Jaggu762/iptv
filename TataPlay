@@ -16,6 +16,9 @@ https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifes
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Tata%20Play%20Romance.webp" group-title="Entertainment", Tata Play Romance
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/manifest.mpd
 
+#EXTINF:-tvg-id="000" group-title="Official TG" tvg-logo="https://cdn.discordapp.com/icons/1181968455570825318/a_e6166027d9535048f0977aaa27debebf.gif?size=1024" ,Made by SyncGang
+https://discord.gg/zKD72drgZV
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3850c8a95e751f6a12f592279668e8f:d9c3ea93f5651b8ca3227916e992d8c9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/Tata%20Play%20Fitness.webp" group-title="Lifestyle", Tata Play Fitness
